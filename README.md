@@ -1,2 +1,2 @@
 # projeto-melao
-Aqui iremos colocar nossos projetos criados
+Pasta para projetos.
